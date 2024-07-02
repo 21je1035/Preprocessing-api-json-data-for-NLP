@@ -33,20 +33,6 @@ Stemming/Lemmatization: Reducing words to their base or root form to ensure unif
 
 This notebook provides a comprehensive pipeline for cleaning and preparing movie descriptions for various NLP tasks. The preprocessing steps ensure that the text data is in a suitable format for further analysis and modeling.
 
-Feel free to explore the notebook and use the provided functions and techniques for your own NLP projects.
-
-jupyter notebook
-Dependencies
-pandas
-requests
-BeautifulSoup
-re (Regular Expressions)
-nltk (Natural Language Toolkit)
-emoji
-autocorrect
-spacy
-
-Contributing
 Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
 
 
