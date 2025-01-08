@@ -1,0 +1,7 @@
+streamlit
+transformers
+nltk
+spacy
+emoji
+torch
+protobuf<=3.20.1
